@@ -4,7 +4,7 @@
   1. La realidad virtual.
   2. Ciberseguridad.
   3. Base de datos.
-## *Proyetos*
+## *Proyectos*
 Por el momento no tengo ningun proyecto, pero espero pronto poder desarrolar alguno.
 ## *Mis metas profesionales son:*
   1. Contribuir al desarrollo para un impacto positivo.
